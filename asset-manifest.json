@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ModernCity/static/css/main.57b51966.css",
-    "main.js": "/ModernCity/static/js/main.81e84ef3.js",
-    "index.html": "/ModernCity/index.html",
-    "main.57b51966.css.map": "/ModernCity/static/css/main.57b51966.css.map",
-    "main.81e84ef3.js.map": "/ModernCity/static/js/main.81e84ef3.js.map"
+    "main.css": "/MordernCity/static/css/main.57b51966.css",
+    "main.js": "/MordernCity/static/js/main.81e84ef3.js",
+    "index.html": "/MordernCity/index.html",
+    "main.57b51966.css.map": "/MordernCity/static/css/main.57b51966.css.map",
+    "main.81e84ef3.js.map": "/MordernCity/static/js/main.81e84ef3.js.map"
   },
   "entrypoints": [
     "static/css/main.57b51966.css",
